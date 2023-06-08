@@ -45,7 +45,7 @@ sudo install -o root -g root -m 0755 kubectl /usr/local/bin/kubectl
 
 12. Create the docker image
 
-docker build -t praveensingam1994/springboot-crud-k8s:1.0 .
+docker build -t writetoritika/springboot-crud-k8s:1.0 .
 
 13. docker login
 
